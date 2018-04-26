@@ -1,0 +1,35 @@
+<!doctype html>
+ <body>
+ <center>
+<table border = '2'>
+
+<tr>
+    <th>SNO</th>
+	<th>NAME</th>
+	<th>age</th>
+ </tr>
+
+ <tr>
+    <td>1</td>
+    <td>Ramu</td>
+    <td>22</td>
+<tr>
+
+
+</tr>
+    <td>2</td>
+    <td>Vijay</td>
+    <td>32</td>
+	</tr>
+
+
+</tr>
+    <td>3</td>
+    <td>vivek</td>
+    <td>21</td>
+
+</table></center>
+
+  
+ </body>
+</html>

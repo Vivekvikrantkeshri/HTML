@@ -1,0 +1,18 @@
+<form action="">
+   first Name : <input type='text' name='firstName'/> <br>
+   last name: <input type='password' name='last Name'/> <br>   
+   Address : <textarea cols='20' rows='4' name='address'></textarea> </br>
+   Gender : <input type='radio' name='gender' value='M'/>Male &nbsp;
+            <input type='radio' name='gender' value='F'>Female </br>
+    Skills: <input type='checkbox' name='skillr' value='c'/>c &nbsp;
+            <input type='checkbox' name='skill' value='c++'>c++ &nbsp;
+            <input type='checkbox' name='skill' value='java'>Java &nbsp;
+            <input type='checkbox' name='skill' value='oracle'>oracle</br>
+  Education :
+  <select name="education">
+  <option value='be'>BE</option>
+  <option value='me'>ME</option>
+  <option value='mca'>MCA</option>
+</select> </br>
+   <input type='submit'/>
+ </form>
